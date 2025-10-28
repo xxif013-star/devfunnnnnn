@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 import os
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1432537921189052436/pIVaQuJHjIBeX2ZRTO1mvm3YDP6rCPtgD5_PrLtgSO7hZywK47F0D-BbEX7UsGn8_qjl"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1432558973130768545/DjpKwlex-sEr1KFRSKfjrumDijGpY4S30DsCbwSIabS7OsnD9pKXvG45K4JhMqEYAbJC"
 API_URL = "https://dev.fun/api/home.listProjects"
 POLL_INTERVAL = 10
 
@@ -138,3 +138,4 @@ def monitor():
 
 if __name__ == "__main__":
     monitor()
+
